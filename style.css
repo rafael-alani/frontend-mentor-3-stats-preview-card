@@ -132,6 +132,9 @@ body {
      body {
          height: 100vh;
      }
+     .card-wrapper {
+         height: 100vh;
+     }
     .card {
         flex-direction: row-reverse;
         justify-content: flex-end;
